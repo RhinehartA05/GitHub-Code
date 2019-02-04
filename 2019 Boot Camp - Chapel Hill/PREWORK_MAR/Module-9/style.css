@@ -1,0 +1,55 @@
+#First {
+    Text-align: center;
+}
+
+.RedText {
+    color: red;
+}
+
+.BlueText {
+    color: blue;
+}
+
+.GreenText {
+    color: green;
+}
+
+.BigText {
+    font-size: 30px;
+}
+
+.TinyText {
+    font-size: 10px;
+}
+
+.CenteredText {
+    text-align: center;
+}
+
+.StrongText {
+    font-weight: bold;
+}
+
+.Font1 {
+    font-family: cursive;
+}
+
+.OrangeJuice {
+    font-size: 60;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold; 
+    color: green;
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: 8px;
+    color: orange;
+
+}

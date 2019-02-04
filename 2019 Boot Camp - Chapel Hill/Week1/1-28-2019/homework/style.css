@@ -1,0 +1,51 @@
+* {
+    
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.header {
+background-color: lightgray;
+text-align: center;
+padding: 2px;
+}
+
+.footer {
+background-color: lightgray;
+text-align: center;
+padding: 2px;
+}
+
+.nav {
+background-color: lightgray;
+text-align: center;
+}
+
+.section {
+background-color: gray;
+display: grid;
+grid-template-columns: 60% 40%;
+text-align: center;
+
+}
+
+.article {
+background-color: lightgray;
+
+
+}
+
+.subarticle {
+background-color: lightgray;
+padding: 2px;
+}
+
+.paragraph {
+background-color: lightgray;
+padding: 2px;
+}
+
+.aside {
+background-color: lightgray;
+text-align: center;
+}
